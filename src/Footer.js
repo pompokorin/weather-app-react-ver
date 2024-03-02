@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="Footer text-center">
       This project was coded by Mina Miyamoto and is {""}
       <a
-        href=" https://github.com/pompokorin/react-weather-app-project"
+        href=" https://github.com/pompokorin/weather-app-react-ver"
         target="_blank"
         rel="noreferrer"
       >
